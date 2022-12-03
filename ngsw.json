@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1670072731529,
-  "index": "/index.html",
+  "timestamp": 1670073490813,
+  "index": "/basya-schedule/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.9984bbfd435e4275.js",
-        "/manifest.webmanifest",
-        "/polyfills.cb4237fbb861308f.js",
-        "/runtime.45bdd5f8494354ac.js",
-        "/styles.32747eade01e6540.css"
+        "/basya-schedule/favicon.ico",
+        "/basya-schedule/index.html",
+        "/basya-schedule/main.9984bbfd435e4275.js",
+        "/basya-schedule/manifest.webmanifest",
+        "/basya-schedule/polyfills.cb4237fbb861308f.js",
+        "/basya-schedule/runtime.45bdd5f8494354ac.js",
+        "/basya-schedule/styles.32747eade01e6540.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/basya-schedule/assets/icons/icon-128x128.png",
+        "/basya-schedule/assets/icons/icon-144x144.png",
+        "/basya-schedule/assets/icons/icon-152x152.png",
+        "/basya-schedule/assets/icons/icon-192x192.png",
+        "/basya-schedule/assets/icons/icon-384x384.png",
+        "/basya-schedule/assets/icons/icon-512x512.png",
+        "/basya-schedule/assets/icons/icon-72x72.png",
+        "/basya-schedule/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "033569c634e081165cea63f971bce36f27bf8e0f",
-    "/main.9984bbfd435e4275.js": "03928af97ebf2b5cb819307910bfe4d3ad53ebc4",
-    "/manifest.webmanifest": "3855326b6340d40126c1a4c6bf899e5a375b33d5",
-    "/polyfills.cb4237fbb861308f.js": "05977b58458185c2068ab37159584152ca98a696",
-    "/runtime.45bdd5f8494354ac.js": "58ced132f4caadb55a52fb1a756e7404865a4feb",
-    "/styles.32747eade01e6540.css": "53c23a3ea8a79cb626309005db5431e27fc9f7bd"
+    "/basya-schedule/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/basya-schedule/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/basya-schedule/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/basya-schedule/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/basya-schedule/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/basya-schedule/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/basya-schedule/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/basya-schedule/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/basya-schedule/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/basya-schedule/index.html": "92ff25df13632b51b3471e89eb3214f77a0e8a3f",
+    "/basya-schedule/main.9984bbfd435e4275.js": "03928af97ebf2b5cb819307910bfe4d3ad53ebc4",
+    "/basya-schedule/manifest.webmanifest": "3855326b6340d40126c1a4c6bf899e5a375b33d5",
+    "/basya-schedule/polyfills.cb4237fbb861308f.js": "05977b58458185c2068ab37159584152ca98a696",
+    "/basya-schedule/runtime.45bdd5f8494354ac.js": "58ced132f4caadb55a52fb1a756e7404865a4feb",
+    "/basya-schedule/styles.32747eade01e6540.css": "53c23a3ea8a79cb626309005db5431e27fc9f7bd"
   },
   "navigationUrls": [
     {
